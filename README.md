@@ -62,7 +62,7 @@ This project simulates a real-world customer analytics use case using Excel. It 
 
 ## 📁 Dataset
 
-- Source: [Kaggle UK Retail Dataset]([https://archive.ics.uci.edu/ml/datasets/Online+Retail](https://www.kaggle.com/datasets/carrie1/ecommerce-data))
+- Source: [Kaggle UK Retail Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - Format: Excel (cleaned from CSV)
 - Fields: InvoiceNo, CustomerID, Quantity, UnitPrice, InvoiceDate, Country
 
